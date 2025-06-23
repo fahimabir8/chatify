@@ -1,0 +1,13 @@
+[project]
+name = "chatify"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django>=5.2.3",
+    "django-allauth>=65.9.0",
+    "django-cleanup>=9.0.0",
+    "django-htmx>=1.23.1",
+    "pillow>=11.2.1",
+]
